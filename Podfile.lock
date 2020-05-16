@@ -1,0 +1,24 @@
+PODS:
+  - CJSDK (0.0.5)
+  - MTA (0.0.1)
+  - OneKey (0.0.5)
+
+DEPENDENCIES:
+  - CJSDK (= 0.0.5)
+  - MTA
+  - OneKey (= 0.0.5)
+
+SPEC REPOS:
+  https://github.com/seabird2020/AllSpecs.git:
+    - CJSDK
+    - MTA
+    - OneKey
+
+SPEC CHECKSUMS:
+  CJSDK: 0627d57da0ca35cb6158e4cb09b12b40d31fea52
+  MTA: 1cdd2a5567d3c60615370de6bf8ea0d4cb5465c9
+  OneKey: 787eda529c6f52067662e287592710082f94fd50
+
+PODFILE CHECKSUM: 36781cfa36912667c351753e7a9399dd969a69b5
+
+COCOAPODS: 1.9.1
